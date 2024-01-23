@@ -84,6 +84,8 @@ grep "o" < shells-test.txt
 echo "testing" | grep "o"
 ```
 
+* Save the created files here (path.txt and shells-test.txt) to add with your submission.
+
 ## Advanced: Setting Environment Variables
 
 Bash commands are also very useful for setting up your environment. Think of [environment variables](https://ioflood.com/blog/bash-set-environment-variable/) as the settings of your Bash shell – allowing you to customize your shell environment, providing a versatile and handy tool for various tasks.
@@ -169,6 +171,5 @@ echo $a
 ```
 > ⚠️ Warning: In bash there are no types (everything is a character string) and spacing matters!
 
-* Bash commands will reappear in the following notebooks. Please save the created files to provide with your workshop submission.
 
 ## [**Package Managers** ⏭️ ](Install.md)

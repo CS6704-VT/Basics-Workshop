@@ -118,7 +118,7 @@ _Branches_ are simply pointers to commits. _Tags_ are pointers to anything (comm
 
 ![git-branches](./resources/imgs/git-branches.png)
 
-The following notebook will practice branching with git.
+More broadly, branches provide isolated development work environments that do not impact the main source code. _Merging_ is the process of combining the work from separate branches. Branches are useful for developing features, fixing bugs, organizing work, safely experimenting with the project in a contained area, or contributing to other repositories (i.e. branching is recommended as a good practice for submitting pull requests). Check out the following to practice branching with git.
 
 #### Move between branches with git switch
 
@@ -160,7 +160,9 @@ Let's try the basics. A repository (repo) is where the backup (master) copies of
 – **Local repository:** on your computer
 – **Remote repository:** shared repository in the cloud
 
-Let's create a new local git repository.
+Let's create a new local git repository. 
+
+(_Note:_ GitHub transitioned from passwords to requiring authentication tokens. If you do not have one, you will need to create one under 'Settings > Developer settings > Personal access tokens'. More details are available [here](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens).)
 
 Create a new directory (Basics) and file (README.md).
 
@@ -262,7 +264,10 @@ Now let's push the local repository you created earlier to make it a remote repo
 
 5. Run `git pull` locally. Verify you now have the updated changes.
 
-**6. This repository is where you will place all the materials from the workshop today. Add your FizzBuzz program, the bash practice files, and `git.txt` files here.**
+**This repository is where you will place all the materials from the workshop today. Add your FizzBuzz program, bash practice files, and `git.txt` file here.**
+
+6. Clone your pair programming partner's repository. Create a new branch named your student ID (i.e. dcbrown). Add your individual `Roman.<ext>` file from the pair programming activity to your new branch. Push these changes to your partner's remote repository.
 
 
-## [Branching ⏭️](Branching.md)
+
+## [APIs ⏭️](APIs.md)

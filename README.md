@@ -10,13 +10,13 @@ This workshop provides a brief overview of several useful tools and activities f
 > Setting up your development environment
 
 ## **3. Coding**
-> There is no specific language required for this class, but this is a brief overview of a high-level programming language and coding environment
+> There is no specific language required for this class, but this is a brief overview of programming concepts
 
 ## **4. Version Control with Git**
 > A deeper dive into git and interactive tutorial for learning commands
 
-## **5. Collaboration**
-> Practicing two activities that facilitate collaboration between software engineers
+## **5. APIs**
+> Introduction and practice with using APIs
 
 ## **6. Project Management**
 > Useful development tools for productivity and task management
