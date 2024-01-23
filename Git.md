@@ -85,7 +85,7 @@ Let's examine an example commit.
 git cat-file -p 834845
 ```
 
-**📝 Exercise:** 4) In your own words, describe what this commit is doing?
+**📝 Exercise:** 3) In your own words, describe what this commit is doing?
 
 #### Diffs
 
@@ -109,7 +109,7 @@ To get a closer look at specific changes, use:
 git diff v2.31.0 v2.31.1
 ```
 
-**📝 Exercise:** 5) What is the name of the first file listed that changed between versions 2.31.0 and 2.31.1?
+**📝 Exercise:** 4) What is the name of the first file listed that changed between versions 2.31.0 and 2.31.1?
 
 
 ### Branches
@@ -146,7 +146,7 @@ git switch main
 
 Use `git branch` to see the current branch and `git branch -a` to view a list of branches for the project.
 
-**📝 Exercise:** 6) How many total branches are there for the git repository?
+**📝 Exercise:** 5) How many total branches are there for the git repository?
 
 **From this point on, you do not need the git repository for any activities. You can remove it with the commands:**
 ```bash
